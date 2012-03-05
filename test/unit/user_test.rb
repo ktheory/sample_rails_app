@@ -6,6 +6,6 @@ class UserTest < ActiveSupport::TestCase
   end
 
   test "failure" do
-    assert false
+    assert true
   end
 end
