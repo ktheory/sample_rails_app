@@ -4,4 +4,8 @@ class UserTest < ActiveSupport::TestCase
   test "the truth" do
     assert true
   end
+
+  test "failure" do
+    assert false
+  end
 end
