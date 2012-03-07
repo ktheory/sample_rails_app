@@ -1,8 +1,8 @@
 require 'test_helper'
 
 class UserTest < ActiveSupport::TestCase
-  test "truth" do
-    assert true
+  test "the truth" do
+    assert false
   end
 
 end
